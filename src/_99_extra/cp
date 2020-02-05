@@ -1,4 +1,5 @@
-1. Fill in the blanks
+ 
+ 1. Fill in the blanks
 String favoriteHobby = "programming";
 int numberOfToes = 10;
  int degreesInARightAngle = 90;
@@ -13,5 +14,6 @@ double pi = 3.14159;
 3. Declare and initialize variables for...
      String whatyougotforyourbirthday=  "a iphone";
     ­ the last meal you ate String lastmeal = "";
-    ­ what time you go to bed
+    ­  String whattimeyougotobed "8:00"
     ­ how many Robot programs you have written int numprograms= 5;
+    */
